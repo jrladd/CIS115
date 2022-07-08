@@ -5,37 +5,68 @@ classes: wide
 sidebar:
   - title: "Note on the schedule"
     text: "*Keep in mind that some of this schedule could change throughout the semester. However, if anything changes I'll update this page, and I'll be sure to give you plenty of advance notice.*"
-  - title: "Course text"
-    text: "[*R for Data Science*](http://r4ds.had.co.nz/) by Hadley and Grolemund (Free online!)"
-  - title: "Software"
-    text: "All projects in this course will be scripted and analyzed using R, an open source data analysis language and environment. Specifically, we will be using RStudio as our programming environment. **No previous experience with R, statistical software packages, or computer programming is required.**"
 ---
+
+## Books and Materials
+
+Ceruzzi, Paul E. *Computing: A Concise History*. MIT Press, 2012.  
+Postman, Neil. *Technopoly: The Surrender of Culture to Technology*. New York: Vintage, 1992.
+
+Additional readings linked below or available on Sakai.
 
 ## Class Schedule
 
-**On Monday and Wednesday we'll cover new topics and skills, and on Fridays we'll discuss readings related to those topics. This schedule also includes the topics for the Labs, which will reinforce what we do in class.**
+**On days marked as "All," we will all meet for the entire class time. On days marked as "Group," we will meet in smaller groups for half the class period. See Sakai for your assigned group time.**
 
-I will add Lab links to Github Classroom assignments before each week's lab. You'll find a [guide to using Github Classroom here](/DA101/githubclassroom).
-
-Date|Mon./Wed. Topics|Lab|Fri. Discussion
---|---|--|---
-|**Module 1: Data Basics**|
-Jan. 17-21|[What Is Data?](/DA101/slides/whatisdata); [Textbook Ch. 12](https://r4ds.had.co.nz/tidy-data.html)|Garlic Mustard: [01](https://classroom.github.com/a/a4MARovB), [03](https://classroom.github.com/a/mVNaTOBx)|[Beyond the Hype](https://www.sciencedirect.com/science/article/pii/S0268401214001066)
-Jan. 24-28|NO CLASS MONDAY; [Metadata and the Data Analysis Cycle](/DA101/slides/metadata_and_da_cycle); [R Basics](/DA101/slides/rbasics)|Book Reviews: [01](https://classroom.github.com/a/O64QccKh), [03](https://classroom.github.com/a/zOTWe4SQ)|No class: One-on-one meetings
-Jan. 31-Feb. 4|[Data Wrangling](/DA101/slides/wrangling); [Textbook Ch. 5](https://r4ds.had.co.nz/transform.html)|Movie Dialogue: [01](https://classroom.github.com/a/i9A6KZUE), [03](https://classroom.github.com/a/ELl1Ewpr)|[Ethics, Bias, and Diversity](/DA101/slides/ethics)
-Feb. 7-11|[Visualizing Data](/DA101/slides/visualizing); [Textbook Ch. 3](https://r4ds.had.co.nz/data-visualisation.html)|Code Glossary I: [01](https://classroom.github.com/a/8W4jRXDA), [03](https://classroom.github.com/a/K-0wcMlU)|[Ugly, Bad, and Wrong Figures](https://clauswilke.com/dataviz/introduction.html)
-|**Module 2: Describe**|
-Feb. 14-18|[Exploratory Data Analysis](/DA101/slides/eda); [Textbook Ch. 7](https://r4ds.had.co.nz/exploratory-data-analysis.html); [Hypothesis Testing](/DA101/slides/hypothesis)|Substance Use: [01](https://classroom.github.com/a/h4Mchday), [03](https://classroom.github.com/a/JIlUsD7P)|[An unprecedented Nintendo leak turns into a moral dilemma for archivists](https://www.theverge.com/2020/7/30/21347074/nintendo-gigaleak-controversy-history-preservation-archives)
-Feb. 21-25|[Hypothesis Testing](/DA101/slides/hypothesis)|Audiobooks: [01](https://classroom.github.com/a/KW4H1WFz), [03](https://classroom.github.com/a/abLAdeMx)|[Stop Misusing P-Values](https://fivethirtyeight.com/features/statisticians-found-one-thing-they-can-agree-on-its-time-to-stop-misusing-p-values/); [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/)
-Feb. 28-Mar.4|[Resampling](/DA101/slides/resampling)|US Congress I: [01](https://classroom.github.com/a/j8E0dDU-), [03](https://classroom.github.com/a/pzRZHjCp)|[Ethics, Bias, and Diversity](/DA101/slides/ethics)
-|**Module 3: Predict**|
-Mar. 7-11|[Linear Regression](/DA101/slides/predictive)|US Congress II: [01](https://classroom.github.com/a/A6x0r0n_), [03](https://classroom.github.com/a/B56wsUZL)|[The Happiness Calculator](https://gimletmedia.com/shows/reply-all/kwh96n), [So About That Thermometer Data](https://slate.com/technology/2020/04/kinsa-smart-thermometer-data-fevers-covid19.html)
-**SPRING BREAK**|
-Mar. 21-25|[Multiple Regression](/DA101/slides/multiple)|Airbnb: [01](https://classroom.github.com/a/IyOrDJrq), [03](https://classroom.github.com/a/2ZT6HHq9)|[Wine and Math](https://pudding.cool/2021/03/wine-model/)
-Mar. 28-Apr.1|[Network Analysis](/DA101/slides/networks)|Marvel Comics: [01](https://classroom.github.com/a/1lgib3hG), [03](https://classroom.github.com/a/9gX9VLRY) & Code Glossary II|Outlier Conference
-Apr. 4-8|[Mapping and Spatial Data](/DA101/slides/mapping)|Final Project Launch: [01](https://classroom.github.com/a/QFy72YML), [03](https://classroom.github.com/a/tEQoXCM2)|NO CLASS; Complete Ethics Certification
-Apr. 11-15|[Text Data](/DA101/resources/working-with-text); [Textbook Ch. 14](https://r4ds.had.co.nz/strings.html)|Project Sprints|[The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2)
-|**Module 4: Communicate**|
-Apr. 18-22|[Debugging](/DA101/slides/debugging); Open Data Practices|Project Sprints|[Sweet & Slim, Greasy & Grim](https://pudding.cool/2020/07/gendered-descriptions/), [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
-Apr. 25-29|Student Presentations|Project Sprints|Student Presentations
-May 2|Wrap-up & Advice for Future Students|Troubleshooting and Questions
+Date|Readings|Discussion
+--|----|--
+|**Unit I: The Problem of Information**
+W 24 Aug.|Introductions and Course Theme|All
+F 26 Aug.|O'Donnell, "From the Codex to the Homepage"|All
+M 29 Aug.|David Weinberger, *Everything is Miscellaneous*. Safiya Noble.|Group
+W 31 Aug.|"When Google's Toxic Comment Detector Meets the 'Google Memo'."|All
+F 2 Sept.|"History, Digitized (and Abridged)."|Group
+M 5 Sept.|**NO CLASS**: Labor Day
+W 7 Sept.|Vannevar Bush, "As We May Think."|Group
+F 9 Sept.|Carr, "Is Google Making Us Stupid?"|Group
+M 12 Sept.|Lee, "A Patent Lie". Patents podcast.|All
+W 14 Sept.|Standage, "The Mother of All Networks"|Group
+F 16 Sept.|*Computing*: Introduction and Ch. 1 &2.|Group
+M 19 Sept.|Peer review of Essay 1|All
+W 21 Sept.|Test on Unit I|All
+|**Unit II: Key Enabling Technologies**
+F 23 Sept.|Reid, "The Real Miracle". **ESSAY 1 DUE**|All
+M 26 Sept.|*Computing*: Ch. 3 & 4|Group
+W 28 Sept.|Abbate, "Cold War and White Heat."|Group
+F 30 Sept.|*Computing*: Ch. 5, 6, & 7. "Computer Visionary Who Invented the Mouse."|All
+M 3 Oct.|Hoffmann, "Writers, Texts, and Writing Acts."|Group
+W 5 Oct.|Planet Money Episode, Wired Magazine|Group
+F 7 Oct.|Discussion/Research for Essay 2.|All
+M 10 Oct.|Essay 2 Conferences|All
+W 12 Oct.|Essay 2 Conferences|All
+|**Unit III: Critical Reflection**
+F 14 Oct.|Brown, "Agents and Angels." **ESSAY 2 DUE**|All
+M 17 Oct.|**NO CLASS**: Fall Break
+W 19 Oct.|Carr, "IT Doesn't Matter." Bezos.|Group
+F 21 Oct.|Lessig, "The Vision for the Creative Commons."|Group
+M 24 Oct.|Big Data and Privacy|All
+W 26 Oct.|Postman, Introduction & Ch. 1.|Group
+F 28 Oct.|**NO CLASS**
+M 31 Oct.|Postman, Ch. 2 & 3.|Group
+|**Unit IV: Futurism (Past & Present)**
+W 2 Nov.|Postman, Ch. 5 & 6.|All
+F 4 Nov.|Postman, Ch. 8 & 9.|Group
+M 7 Nov.|Exam on Units II & III.|All
+W 9 Nov.|Michio Kaku, first third of "The Future of the Computer." Also watching *Transcendent Man*.|All
+F 11 Nov.|Michio Kaku, second third.|All
+M 14 Nov.|Finish Kaku, watch *Transcendent Man* in class.|All
+W 16 Nov.|Medicine of the Future.|All
+F 18 Nov.|Work of the Future. "Virtual Chiat," "Lost in Space." "Robots Will Take Our Jobs."|Group
+M 21 Nov.|Home of the Future. "The Future Knocks Again."|Group
+W 23 Nov.|**NO CLASS**: Thanksgiving Break
+F 25 Nov.|**NO CLASS**: Thanksgiving Break
+M 28 Nov.|*Data Feminism*|Group
+W 30 Nov.|*Race After Technology*|Group
+F 2 Dec.|Peer Review of Essay 3.|All
+M 5 Dec.|No Class Meeting: Optional Conferences on Essay 3|All
+F 9 Dec. 9am-Noon|FINAL EXAM PERIOD. No formal exam: **ESSAY 3 DUE BEFORE NOON**|All
