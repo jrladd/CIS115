@@ -23,7 +23,7 @@ Date|Readings|Discussion
 |**Unit I: The Problem of Information**
 W 24 Aug.|Introductions and Course Theme|All
 F 26 Aug.|O'Donnell, "From the Codex to the Homepage" (pdf).|All
-M 29 Aug.|David Weinberger, *Everything is Miscellaneous*. Safiya Noble: [TEDx Talk](https://youtu.be/UXuJ8yQf6dI) and introduction to *Algorithms of Oppression*.|Group
+M 29 Aug.|David Weinberger, *Everything is Miscellaneous* (pdf). Safiya Noble: [TEDx Talk](https://youtu.be/UXuJ8yQf6dI) and introduction to *Algorithms of Oppression*.|Group
 W 31 Aug.|"When Google's Toxic Comment Detector Meets the 'Google Memo'."|All
 F 2 Sept.|"[History, Digitized (and Abridged)](http://www.nytimes.com/2007/03/10/business/yourmoney/11archive.html?ref=business)." Vint Cerf: [TEDx Talk](https://www.youtube.com/watch?reload=9&v=GV0A82TCrf0)|Group
 M 5 Sept.|**NO CLASS**: Labor Day
@@ -41,7 +41,7 @@ W 28 Sept.|*Computing*: Ch. 3 & 4.|Group
 F 30 Sept.|Abbate, "Cold War and White Heat." (pdf)|Group
 M 3 Oct.|*Computing*: Ch. 5, 6, & 7. "[Computer Visionary Who Invented the Mouse](http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html)."|All
 W 5 Oct.|Hoffmann, "Writers, Texts, and Writing Acts" (pdf)|Group
-F 7 Oct.|Planet Money: “When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)."|Group
+F 7 Oct.|Planet Money: “[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)."|Group
 M 10 Oct.|Discussion/Research for Essay 2.|All
 W 12 Oct.|Essay 2 Conferences.|All
 |**Unit III: Critical Reflection**
