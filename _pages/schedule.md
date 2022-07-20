@@ -40,7 +40,7 @@ M 26 Sept.|Reid, "The Real Miracle" (pdf).|All
 W 28 Sept.|*Computing*: Ch. 3 & 4.|Group
 F 30 Sept.|Abbate, "Cold War and White Heat." (pdf)|Group
 M 3 Oct.|*Computing*: Ch. 5, 6, & 7. "[Computer Visionary Who Invented the Mouse](http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html)."|All
-W 5 Oct.|Hoffmann, "Writers, Texts, and Writing Acts" (pdf)|Group
+W 5 Oct.|Kirschenbaum, "Unseen Hands" (pdf). "[Overlooked No More: Karen Sparck Jones, Who Established the Basis for Search Engines](https://www.nytimes.com/2019/01/02/obituaries/karen-sparck-jones-overlooked.html)."|Group
 F 7 Oct.|Planet Money: “[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)."|Group
 M 10 Oct.|Discussion/Research for Essay 2.|All
 W 12 Oct.|Essay 2 Conferences.|All
