@@ -32,6 +32,18 @@ You'll get participation credit simply for attending class and doing the work wi
 
 Though you're not required to, you can always reach out to me or a classmate to find out what you missed. We're all in this together, and I'll do my best to make sure no one falls behind.
 
+#### Longer Absences
+
+The guidelines above apply to typical short absences (missing just one class in a row and catching up on work as normal). However, I recognize that COVID and other issues may lead to an *extended* absence, when you might be out of class for several classes in a row, or even a week or more.
+
+In these cases, **it's your responsibility to contact me as you soon as you know you'll be out**. Let me know how long you expect the absence to be, and we can talk through what some of the expectations will be during this time and how you will complete the work.
+
+It's important that you attend class as much as you can, but it's also important that you stay home if you're sick and get the care you need. We can work on this balance together, and if you have any questions about you can always ask me!
+
+#### Instructor Absence
+
+If I have to miss class due to illness or any other reason, I will let you know as soon as possible via email. I'll also post any relevant materials on Sakai or on this website, and my email will let you know what you need to do. It's a good idea to check your email at least once a day, since that's the primary way I'll keep in touch about any changes to the schedule.
+
 ### Lateness and Extensions
 
 All assignments are due by the start of each class. I know that things don't always go according to plan. If you need an extension, simply ask for one (by email), and you'll almost always receive it. You don't need an excuse to receive an extension!
