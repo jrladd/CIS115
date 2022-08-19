@@ -14,7 +14,7 @@ In between classes you should:
 
 - Review your notes from previous classes
 - Read the assigned readings for that day
-- Refer to this site for updates to the [schedule](/schedule)
+- Refer to this site for updates to the [schedule](/CIS100/schedule)
 - Leave yourself enough time to read and respond to discussion board posts
 - DO NOT wait until the last minute to begin your essays
 - Revise and proofread your writing before turning it in
@@ -36,7 +36,7 @@ Though you're not required to, you can always reach out to me or a classmate to 
 
 The guidelines above apply to typical short absences (missing just one class in a row and catching up on work as normal). However, I recognize that COVID and other issues may lead to an *extended* absence, when you might be out of class for several classes in a row, or even a week or more.
 
-In these cases, **it's your responsibility to contact me as you soon as you know you'll be out**. Let me know how long you expect the absence to be, and we can talk through what some of the expectations will be during this time and how you will complete the work.
+In these cases, **it's your responsibility to contact me as soon as you know you'll be out**. Let me know how long you expect the absence to be, and we can talk through what some of the expectations will be during this time and how you will complete the work.
 
 It's important that you attend class as much as you can, but it's also important that you stay home if you're sick and get the care you need. We can work on this balance together, and if you have any questions about you can always ask me!
 
