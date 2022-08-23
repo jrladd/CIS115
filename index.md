@@ -20,7 +20,7 @@ excerpt: "CIS 100. Washington & Jefferson College. Fall 2022."
 
 **Meeting Time: MWF 10:20-11:30am (see Sakai for group meeting times)**  
 
-Dr. Ladd's Student Drop-In Hours: T 11am-12pm & W 1-3pm in TECH 201  
+Dr. Ladd's Student Drop-In Hours: T 11am-1pm & W 1-3pm in TECH 201  
 or email for appointment, [jladd@washjeff.edu](mailto:jladd@washjeff.edu)
 
 ## Course Description
