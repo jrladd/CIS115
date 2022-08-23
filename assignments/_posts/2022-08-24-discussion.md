@@ -3,7 +3,7 @@ title:  "Discussion Assignment"
 date:   2022-08-23 12:00:00 -0400
 show_date: false
 ---
-**Complete by: the end of every class day marked as "Group" on the [schedule](/CIS100/schedule)*
+**Complete by: the end of every class day marked as "Group" on the [schedule](/CIS100/schedule)**
 
 The purpose of the discussion assignment is to bring current examples of information technology in society into context with the discussions we are having about course material. In this way, we can see connections between historical developments and today’s innovations.
 
