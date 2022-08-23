@@ -23,7 +23,7 @@ Date|Readings|Discussion
 |**Unit I: The Problem of Information**
 W 24 Aug.|Introductions and Course Theme|All
 F 26 Aug.|O'Donnell, "From the Codex to the Homepage" (pdf).|All
-M 29 Aug.|David Weinberger, *Everything is Miscellaneous* (pdf). Safiya Noble: [TEDx Talk](https://youtu.be/UXuJ8yQf6dI) and introduction to *Algorithms of Oppression*.|Group
+M 29 Aug.|David Weinberger, *Everything is Miscellaneous* (pdf). Safiya Noble: [TEDx Talk](https://youtu.be/UXuJ8yQf6dI) and *Algorithms of Oppression* pgs. 35-55.|Group
 W 31 Aug.|"[What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin)" sections 2.1-2.4. Excerpts from *Phaedrus*|All
 F 2 Sept.|"[History, Digitized (and Abridged)](http://www.nytimes.com/2007/03/10/business/yourmoney/11archive.html?ref=business)." Vint Cerf: [TEDx Talk](https://www.youtube.com/watch?reload=9&v=GV0A82TCrf0)|Group
 M 5 Sept.|**NO CLASS**: Labor Day
