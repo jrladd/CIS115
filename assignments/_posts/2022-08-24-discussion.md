@@ -9,15 +9,18 @@ The purpose of the discussion assignment is to bring current examples of informa
 
 We'll use a private Discord server as our discussion board for the class (I'll post an invite link on Sakai). You'll use the #dr-ladds-section channel as the discussion board, but feel free to use the rest of the server to chat and ask questions as well.
 
-Every time we have "Group" class (i.e. when only half the class meets at a time), you'll also be responsible for posting on the Discord. You will write a short paragraph in which you make a point about one of our assigned readings for that day and explain why you think it’s important.
+Every time we have "Group" class (i.e. when only half the class meets at a time), one of you will find a relevant article online and post it to the Discord. You will also write a short paragraph in which you summarize the article and explain why you think it’s important. You should pose a question or two for other students in the class to respond to. You should complete your post by the end of that class day, by midnight.
 
-You can start a new idea or reply to someone's post, but either way your post should have at least 4 complete sentences and an idea that stands on its own.
+Everyone else in the class should write a paragraph responding to each of the posted topics. You should complete your discussion board response by the end of the following day.
 
-*A few things to keep in mind:* Don't just say "Yes, I agree with your idea." Expand or elaborate on what others have written with your own original thoughts! You can also pose questions to your classmates, but the main part of your post can't be *only* a question. Finally, it's okay to expand on something we discussed in class, but make sure you're not just repeating what we already said.
+Whether you're creating a new post or responding, your post should have **at least 4 complete sentences and an idea that stands on its own**.
 
-In all your posts, I want to see at least one integrated quote—from the article, or from another student’s paragraph. This will help us practice one of the most important aspects of writing: integrating sources.
+*Keep in mind:* Don't just say "Yes, I agree with your idea." Expand or elaborate on what others have written with your own original thoughts!
+
+In all your posts, I want to see **at least one integrated quote**—from the article, or from another student’s paragraph. This will help us practice one of the most important aspects of writing: integrating sources.
 
 **Requirements**:
 
+- See [Sakai](https://sakai.washjeff.edu) for your assigned day
 - One paragraph (at least four sentences) every "Group" class
-- At least one integrated quote (does not count toward your 4 sentences).
+- At least one integrated quote (does not count toward your 4 sentences)
