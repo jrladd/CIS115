@@ -53,10 +53,10 @@ M 24 Oct.|Big Data and Privacy: you bring an article.|All
 W 26 Oct.|Postman, Introduction & Ch. 1.|Group
 F 28 Oct.|**NO CLASS**
 M 31 Oct.|Postman, Ch. 2 & 3.|Group
-|**Unit IV: Futurism (Past & Present)**
 W 2 Nov.|Postman, Ch. 5 & 6.|All
 F 4 Nov.|Postman, Ch. 8 & 9.|Group
 M 7 Nov.|Exam on Units II & III.|All
+|**Unit IV: Futurism (Past & Present)**
 W 9 Nov.|Michio Kaku, first third of "The Future of the Computer" (pdf). Also watching *Transcendent Man* in class.|All
 F 11 Nov.|Michio Kaku, second third (pdf). Continue *Transcendent Man*.|All
 M 14 Nov.|Finish Kaku (pdf). Finish *Transcendent Man* in class.|All
