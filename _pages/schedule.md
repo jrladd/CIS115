@@ -11,7 +11,7 @@ sidebar:
 
 Ceruzzi, Paul E. *Computing: A Concise History*. MIT Press, 2012.  
 Postman, Neil. *Technopoly: The Surrender of Culture to Technology*. New York: Vintage, 1992.
-Sloan, Robin. *Mr. Penumbra's 24-Hour Bookstore". New York: Picador, 2013.
+Sloan, Robin. *Mr. Penumbra's 24-Hour Bookstore*. New York: Picador, 2013.
 
 Additional readings linked below or available on Sakai.
 
