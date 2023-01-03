@@ -16,6 +16,6 @@ Test on Unit I|10%
 Essay Two|20%
 Test on Units II & III|10%
 Essay Three|20%
-Discussion Board|15%
+Weekly Annotations|15%
 Participation|10%
 

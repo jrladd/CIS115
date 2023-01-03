@@ -38,7 +38,7 @@ The guidelines above apply to typical short absences (missing just one class in 
 
 In these cases, **it's your responsibility to contact me as soon as you know you'll be out**. Let me know how long you expect the absence to be, and we can talk through what some of the expectations will be during this time and how you will complete the work.
 
-It's important that you attend class as much as you can, but it's also important that you stay home if you're sick and get the care you need. We can work on this balance together, and if you have any questions about you can always ask me!
+It's important that you attend class as much as you can, but it's also important that you stay home if you're sick and get the care you need. We can work on this balance together, and if you have any questions you can always ask me!
 
 #### Instructor Absence
 
