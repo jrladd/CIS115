@@ -15,7 +15,7 @@ header:
       url: "/policies/"
     - label: "Sakai"
       url: "https://sakai.washjeff.edu"
-excerpt: "CIS 100. Washington & Jefferson College. Fall 2022."
+excerpt: "CIS 100. Washington & Jefferson College. Spring 2023."
 ---
 
 **Meeting Time: MWF 10:20-11:30am (see Sakai for group meeting times)**  
