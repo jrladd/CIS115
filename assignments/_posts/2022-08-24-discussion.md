@@ -11,7 +11,7 @@ We'll use [Hypothesis](https://web.hypothes.is/) as our annotation tool for the 
 
 Once a week, one or more of you will find a relevant article online and post a link to the Commons section of Sakai. You will also write a short paragraph, as a Hypothesis annotation, in which you summarize the article and explain why you think it’s important. You should pose a question or two for other students in the class to respond to. You should complete your post by the end of the day on Tuesday of your assigned week, by midnight.
 
-Everyone else in the class should read the posted article(s) and write an annotation for each one. You should highlight and respond to a specific quote in the text. You should complete your annotation by the end of the following day, Tuesday.
+Everyone else in the class should read the posted article(s) and write an annotation for each one. You should highlight and respond to a specific quote in the text. You should complete your annotation by the end of the following day, Wednesday.
 
 Whether you're sharing an article or responding to one, your post should have **at least 4 complete sentences and an idea that stands on its own**.
 
