@@ -26,8 +26,8 @@ W 25 Jan.|Introductions and Course Theme|All
 F 27 Jan.|O'Donnell, "From the Codex to the Homepage" (pdf).|All
 M 30 Jan.|David Weinberger, *Everything is Miscellaneous* (pdf).|All
 W 1 Feb.| Safiya Noble: [TEDx Talk](https://youtu.be/UXuJ8yQf6dI) and *Algorithms of Oppression* pgs. 35-55 (pdf).|Group
-F 3 Feb.|"[History, Digitized (and Abridged)](http://www.nytimes.com/2007/03/10/business/yourmoney/11archive.html?ref=business)." Vint Cerf: [TEDx Talk](https://www.youtube.com/watch?reload=9&v=GV0A82TCrf0)|All
-M 6 Feb.|"[What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin)" sections 2.1-2.4. Excerpt from *Phaedrus* (pdf).|All
+F 3 Feb.|"[What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin)" sections 2.1-2.4. Excerpt from *Phaedrus* (pdf).|All
+M 6 Feb.|"[History, Digitized (and Abridged)](http://www.nytimes.com/2007/03/10/business/yourmoney/11archive.html?ref=business)." Vint Cerf: [TEDx Talk](https://www.youtube.com/watch?reload=9&v=GV0A82TCrf0)|All
 W 8 Feb.|Vannevar Bush, "[As We May Think.](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)" Alex Wright, "[The Secret History of Hypertext](https://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/)."|Group
 F 10 Feb.|Carr, "[Is Google Making Us Stupid?](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)"|All
 M 13 Feb.|Lee, “[A Patent Lie](http://www.nytimes.com/2007/06/09/opinion/09lee.html?_r=1&oref=slogin).” This American Life: “[When Patents Attack: Part II](http://www.thisamericanlife.org/radio-archives/episode/496/when-patents-attack-part-two).”|All
