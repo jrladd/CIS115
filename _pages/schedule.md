@@ -36,20 +36,20 @@ F 17 Feb.|*Computing*: Introduction and Ch. 1 & 2.|All
 M 20 Feb.|Peer review of Essay 1|All
 W 22 Feb.|NO CLASS (Symposium on Democracy)
 F 24 Feb.|Test on Unit I|All
-M 27 Feb.|Disinformation/Misinformation: Adrien Chen, “[The Agency](https://www.nytimes.com/2015/06/07/magazine/the-agency.html).” **ESSAY 1 DUE**|All
 |**Unit II: Key Enabling Technologies**
-W 1 Mar.|Reid, "The Real Miracle" (pdf).|Group
-F 3 Mar.|*Computing*: Ch. 3 & 4.|All
-M 6 Mar.|Abbate, "Cold War and White Heat." (pdf)|All
-W 8 Mar.|*Computing*: Ch. 5, 6, & 7. "[Computer Visionary Who Invented the Mouse](http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html)."|Group
-F 10 Mar.|Kirschenbaum, "Unseen Hands" (pdf). "[Overlooked No More: Karen Sparck Jones, Who Established the Basis for Search Engines](https://www.nytimes.com/2019/01/02/obituaries/karen-sparck-jones-overlooked.html)."|All
+M 27 Feb.|Reid, "The Real Miracle" (pdf). **ESSAY 1 DUE**|All
+W 1 Mar.|*Computing*: Ch. 3 & 4.|Group
+F 3 Mar.|Abbate, "Cold War and White Heat." (pdf)|All
+M 6 Mar.|*Computing*: Ch. 5, 6, & 7. "[Computer Visionary Who Invented the Mouse](http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html)."|All
+W 8 Mar.|Kirschenbaum, "Unseen Hands" (pdf). "[Overlooked No More: Karen Sparck Jones, Who Established the Basis for Search Engines](https://www.nytimes.com/2019/01/02/obituaries/karen-sparck-jones-overlooked.html)."|Group
+F 10 Mar.|Planet Money: “[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” |All
 M 13 Mar.|Discussion/Research for Essay 2.|All
 W 15 Mar.|Essay 2 Conferences.|Group
-F 17 Mar.|Brown, "Agents and Angels" (pdf). “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)." **ESSAY 2 DUE**|All
-M 20 Mar.–F 24 Mar.|**NO CLASS**: Spring Break
 |**Unit III: Critical Reflection**
-M 27 Mar.|*Race After Technology*, "The New Jim Code" (pdf).|All
-W 29 Mar.|Planet Money: “[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” |Group
+F 17 Mar.|Disinformation/Misinformation: Adrien Chen, “[The Agency](https://www.nytimes.com/2015/06/07/magazine/the-agency.html).”|All
+M 20 Mar.–F 24 Mar.|**NO CLASS**: Spring Break
+M 27 Mar.|Brown, "Agents and Angels" (pdf). “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)."|All
+W 29 Mar.|*Race After Technology*, "The New Jim Code" (pdf). **ESSAY 2 DUE**|Group
 F 31 Mar.|**NO CLASS**
 M 3 Apr.|Carr, "IT Doesn't Matter" (pdf). Sloan, "[Notes on Web3](https://www.robinsloan.com/lab/notes-on-web3/)."|All
 W 5 Apr.|Lessig, "The Vision for the Creative Commons" (pdf pgs 36-49). Lessig: [TED Talk](https://www.ted.com/talks/lawrence_lessig_laws_that_choke_creativity). Browse [Creative Commons website](https://creativecommons.org/).|Group
