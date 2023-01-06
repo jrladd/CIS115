@@ -22,7 +22,7 @@ Additional readings linked below or available on Sakai.
 Date|Readings|Discussion
 --|----|--
 |**Unit I: The Problem of Information**
-W 25 Jan.|Introductions and Course Theme|All
+W 25 Jan.|Introductions and Course Theme. Practice Annotation Assignment on [What Would Plato Say About ChatGPT?](https://www.nytimes.com/2022/12/15/opinion/chatgpt-education-ai-technology.html)|All
 F 27 Jan.|O'Donnell, "From the Codex to the Homepage" (pdf).|All
 M 30 Jan.|David Weinberger, *Everything is Miscellaneous* (pdf).|All
 W 1 Feb.| Safiya Noble: [TEDx Talk](https://youtu.be/UXuJ8yQf6dI) and *Algorithms of Oppression* pgs. 35-55 (pdf).|Group
@@ -42,13 +42,13 @@ W 1 Mar.|*Computing*: Ch. 3 & 4.|Group
 F 3 Mar.|Abbate, "Cold War and White Heat." (pdf)|All
 M 6 Mar.|*Computing*: Ch. 5, 6, & 7. "[Computer Visionary Who Invented the Mouse](http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html)."|All
 W 8 Mar.|Kirschenbaum, "Unseen Hands" (pdf). "[Overlooked No More: Karen Sparck Jones, Who Established the Basis for Search Engines](https://www.nytimes.com/2019/01/02/obituaries/karen-sparck-jones-overlooked.html)."|Group
-F 10 Mar.|Planet Money: “[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” |All
+F 10 Mar.|Planet Money: “[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)."|All
 M 13 Mar.|Discussion/Research for Essay 2.|All
 W 15 Mar.|Essay 2 Conferences.|Group
 |**Unit III: Critical Reflection**
 F 17 Mar.|Disinformation/Misinformation: Adrien Chen, “[The Agency](https://www.nytimes.com/2015/06/07/magazine/the-agency.html).”|All
 M 20 Mar.–F 24 Mar.|**NO CLASS**: Spring Break
-M 27 Mar.|Brown, "Agents and Angels" (pdf). “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)."|All
+M 27 Mar.|Brown, "Agents and Angels" (pdf).|All
 W 29 Mar.|*Race After Technology*, "The New Jim Code" (pdf). **ESSAY 2 DUE**|Group
 F 31 Mar.|**NO CLASS**
 M 3 Apr.|Carr, "IT Doesn't Matter" (pdf). Sloan, "[Notes on Web3](https://www.robinsloan.com/lab/notes-on-web3/)."|All
