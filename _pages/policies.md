@@ -28,7 +28,9 @@ Good participation should be understood as consistent and thoughtful contributio
 
 You'll get participation credit simply for attending class and doing the work with care. Some days the full class will meet for the entire time, and other days we will meet in groups for only part of the class. You are responsible to attend all of your group times as well as all of the full-class sessions.
 
-**You can miss 4 class sessions without penalty, and you don't need to contact me if you have missed or will miss a class**. However, if you miss more than 4 classes, you will be marked down one grade "step" for each additional class missed. (For example, if you miss five classes and your final grade is 90% (A-), your fifth absence will cause you to have a B+ instead.) Excessive absences may also affect your participation grade.
+**You can miss 5 class sessions without penalty, and you don't need to contact me if you have missed or will miss a class**. This is a generous policy that should cover absences due to illness, sports, academic trips, interviews, etc. If you have a special case, such as having to isolate due to COVID, contact me as soon as possible.
+
+However, if you miss more than 5 classes, you will be marked down one grade "step" for each additional class missed. (For example, if you miss six classes and your final grade is 90% (A-), your sixth absence will cause you to have a B+ instead.) There are no “excused” absences, so you do not need to contact me if you have missed or will miss a class. You will be marked absent regardless of your reason for missing class.
 
 Though you're not required to, you can always reach out to me or a classmate to find out what you missed. We're all in this together, and I'll do my best to make sure no one falls behind.
 
