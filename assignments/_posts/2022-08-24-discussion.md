@@ -7,7 +7,7 @@ show_date: false
 
 The purpose of the annotation assignment is to bring current examples of information technology in society into context with the discussions we are having about course material. In this way, we can see connections between historical developments and today’s innovations.
 
-We'll use [Hypothesis](https://web.hypothes.is/) as our annotation tool for the class. (I'll guide you through the process of creating a Hypothesis account and joining the group for our course.)
+We'll use [Hypothesis](https://web.hypothes.is/start/) as our annotation tool for the class. (I'll guide you through the process of creating a Hypothesis account and joining the group for our course.)
 
 Once a week, one or more of you will find a relevant article online and write a short paragraph, as a Hypothesis annotation, in which you summarize the article and explain why you think it’s important. This annotation should be made in our Hypothesis group for the course (link on Sakai, and remember that you can select the group using the dropdown at the top of the annotation window---don't just post to Public). You should pose a question or two for other students in the class to respond to. You should complete your post by the end of the day on Tuesday of your assigned week, by midnight.
 
