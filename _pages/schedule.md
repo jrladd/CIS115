@@ -42,7 +42,7 @@ W 1 Mar.|*Computing*: Ch. 3 & 4.|Group
 F 3 Mar.|Abbate, "Cold War and White Heat." (pdf)|All
 M 6 Mar.|*Computing*: Ch. 5, 6, & 7. "[Computer Visionary Who Invented the Mouse](http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html)."|All
 W 8 Mar.|Kirschenbaum, "Unseen Hands" (pdf). "[Overlooked No More: Karen Sparck Jones, Who Established the Basis for Search Engines](https://www.nytimes.com/2019/01/02/obituaries/karen-sparck-jones-overlooked.html)."|Group
-F 10 Mar.|Planet Money: “[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)."|All
+F 10 Mar.|Planet Money: “[When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/17/356944145/episode-576-when-women-stopped-coding).” “[Sept. 24, 1979: First Online Service for Consumers Debuts](https://www.wired.com/2009/09/0924compuserve-launches/)." Visit from Cece Lasley.|All
 M 13 Mar.|Discussion/Research for Essay 2.|All
 W 15 Mar.|Essay 2 Conferences.|Group
 |**Unit III: Critical Reflection**
