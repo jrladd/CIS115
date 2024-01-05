@@ -11,11 +11,11 @@ On this page you'll find prompts for the different assignments in our course (po
 
 Assignment|Percentage
 ---|--
-Essay One|15%
 Test on Unit I|10%
-Essay Two|20%
+Historical Essay|20%
+Historical Essay Revision|15%
 Test on Units II & III|10%
-Essay Three|20%
+Futurist Essay|20%
 Weekly Annotations|15%
 Participation|10%
 

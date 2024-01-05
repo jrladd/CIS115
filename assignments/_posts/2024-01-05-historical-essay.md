@@ -1,10 +1,9 @@
 ---
-title:  "Essay 2: Key Enabling Technologies 1945-85"
+title:  "Historical Essay"
 date:   2022-09-23 10:00:00 -0400
 show_date: false
 ---
-**Complete by: Friday 29 Mar., at class time.**  
-*First draft by: Wednesday 15 Mar., at class time.*
+**Complete by: Friday 8 Mar., at class time.**  
 
 Write an essay in which you relate one or more contemporary (primary) print (or video) sources (advertisement, newspaper article, newsreel, etc., 1945-1985) to the history we are reading in *Computing* or in the other essays in the “Enabling Technologies” Unit. For example, find an advertisement for a business machine in a popular magazine from the 1970s (like *Business Week*), and write about how the advertisement reflects the history, social phenomena, etc., detailed in a text discussed in class during this Unit, like Ceruzzi’s book *Computing*. Another way to approach this assignment is to decide about an event you are interested in, such as the 1952 presidential election, the introduction of IBM System/360 or 370, or the first GUI/WIMP computers, and find one or more articles about the topic in the popular press of the time.
 

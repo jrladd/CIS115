@@ -56,7 +56,8 @@ defaults:
       author_profile: false
       read_time: false
       share: false
-      related: true
+      related: false
+      permalink: /:categories/:title/
   # _pages
   - scope:
       path: ""
