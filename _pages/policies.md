@@ -58,7 +58,7 @@ But keep in mind: **I cannot accept any assignment more than one week late.** As
 
 In this course, as in all courses, you are expected to adhere to W&J's standards of academic honesty and integrity. You should refer to the College Catalog on MyW&J for the details of this policy and how cases of academic misconduct are handled.
 
-In general, when completing writing assignments, ensure all work is your own, and give credit where it is due in your citations. Likewise do not collaborate on quizzes, tests, or homework assignments unless explicitly granted permission. If you have any concerns about whether you might have plagiarized (e.g., if you’re not sure about some particular rule), please get in touch with me immediately---I will gladly discuss the matter with you.
+In general, when completing writing assignments, ensure all work is your own, and give credit where it is due in your citations. Likewise do not collaborate on quizzes, tests, or homework assignments unless explicitly granted permission. This includes generative AI tools (like ChatGPT) or other technologies that write for you---do not use these unless explicitly granted permission to do so. If you have any concerns about whether you might have plagiarized (e.g., if you’re not sure about some particular rule), please get in touch with me immediately---I will gladly discuss the matter with you.
 
 ### Names and Pronouns
 
@@ -74,7 +74,11 @@ Please be respectful with your use of laptops and technology in class. I request
 
 What we do in college is not easy, on many fronts. Students are challenged with feelings of depression, anxiety, and self harm at astonishingly high rates. Learning is hard, and you will likely be challenged in college in ways that you haven’t experienced before. Learning while life is hard is even harder. Please take care of yourself. Drink water, eat well, and get more than seven hours of sleep. Have some hobbies, but don’t feel the need to do *everything*. If you are feeling depressed, withdrawn, anxious, like an impostor, or you are having specific problems with harassment, assault, bias, etc., please seek help. There are many resources on campus, and my door and email are always open.
 
-W&J's Student Health and Counseling Center offers confidential counseling services: <https://www.washjeff.edu/student-life/student-health-and-counseling-center/>
+W&J faculty and staff recognize that mental or physical health concerns can affect any of us, and sometimes make it difficult for students to manage their academics or daily life.  If you find yourself struggling this semester, please let me know.  I am one of many people here at W&J who care about you and your welfare.
+
+Please also consider contacting the Student Health & Counseling Center (724) 223-6107 or the 24/7/365 Counseling Support Line (833) 434-1217, for support if you’re feeling stressed, overwhelmed, anxious, depressed, lost, or are struggling with personal issues.  Services are free and confidential.
+
+Students have access to free, confidential in-the-moment counseling, self-help, and meditation programs including the prepaid version of HeadSpace, and online therapy options via (833) 434-1217 or the CampusWell app that you can download to your phone.
 
 ### Disability Support Services
 
