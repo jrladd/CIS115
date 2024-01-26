@@ -24,10 +24,10 @@ Date|Readings|Discussion
 |**Unit I: The Problem of Information**
 W 24 Jan.|Introductions and Course Theme. Practice Annotation Assignment on [What Would Plato Say About ChatGPT?](https://www.nytimes.com/2022/12/15/opinion/chatgpt-education-ai-technology.html)|All
 F 26 Jan.|O'Donnell, "From the Codex to the Homepage" (pdf). Excerpt from *Phaedrus* (pdf).|All
-M 29 Jan.|Sloan, *Mr. Penumbra's 24-Hour Bookstore*. David Weinberger, *Everything is Miscellaneous* (pdf).|All
-W 31 Jan.|Sloan, *Mr. Penumbra*.|Group
-F 3 Feb.|Sloan, *Mr. Penumbra*, Carr, "[Is Google Making Us Stupid?](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)" (pdf also on Sakai)|All
-M 5 Feb.|Sloan, *Mr. Penumbra*|All
+M 29 Jan.|Sloan, *Mr. Penumbra's 24-Hour Bookstore* (pgs. 1-48, through *Stranger in a Strange Land*). David Weinberger, *Everything is Miscellaneous* (pdf).|All
+W 31 Jan.|Sloan, *Mr. Penumbra* (pgs. 49-122, to the end of Part I, The Bookstore).|Group
+F 3 Feb.|Sloan, *Mr. Penumbra* (pgs. 123-202, through *The Dragon-Song Chronicles, Volume II*), Carr, "[Is Google Making Us Stupid?](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)" (pdf also on Sakai)|All
+M 5 Feb.|Sloan, *Mr. Penumbra* (pgs. 202-288, to the end of the book)|All
 W 7 Feb.|"[History, Digitized (and Abridged)](http://www.nytimes.com/2007/03/10/business/yourmoney/11archive.html?ref=business)." Vint Cerf: [TEDx Talk](https://www.youtube.com/watch?reload=9&v=GV0A82TCrf0)|Group
 F 9 Feb.|Vannevar Bush, "[As We May Think.](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)" Alex Wright, "[The Secret History of Hypertext](https://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/)." (pdf also on Sakai)|All
 M 12 Feb.|Lee, “[A Patent Lie](http://www.nytimes.com/2007/06/09/opinion/09lee.html?_r=1&oref=slogin).” This American Life: “[When Patents Attack: Part II](http://www.thisamericanlife.org/radio-archives/episode/496/when-patents-attack-part-two).”|All
