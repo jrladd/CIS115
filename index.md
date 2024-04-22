@@ -15,9 +15,9 @@ header:
       url: "/policies/"
     - label: "Sakai"
       url: "https://sakai.washjeff.edu"
-excerpt: "CIS 100. Washington & Jefferson College. Spring 2024."
 ---
 
+CIS 100. Washington & Jefferson College. Spring 2024.  
 **Meeting Time: MWF 10:20-11:30am (see Sakai for group meeting times)**  
 
 Dr. Ladd's Student Drop-In Hours: M 11:30am-1:30pm & W 1-3pm in TECH 201  

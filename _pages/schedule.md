@@ -62,7 +62,7 @@ M 15 Apr.|Exam on Units II & III.|All
 W 17 Apr.|Big Data and Privacy: You bring an article.|Group
 F 19 Apr.|Work of the Future: "[Virtual Chiat](http://www.wired.com/wired/archive/2.07/chiat.html)." "[Lost in Space](http://www.wired.com/wired/archive/7.02/chiat.html)." "[The Robots are Coming for Phil in Accounting](https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html)." Also watching *Transcendent Man* in class.|All
 M 22 Apr.|Home of the Future: "[The Future Knocks Again](http://www.nytimes.com/2008/07/10/garden/10disney.html)." Finish *Transcendent Man*.|All
-W 24 Apr.|Research/Discussion for [Futurist Essay](/CIS100/assignments/futurist-essay).|Group
+W 24 Apr.|Research/Discussion for [Futurist Essay](/CIS100/assignments/futurist-essay).|All
 F 26 Apr.|"[What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin)" sections 2.1-2.4.|All
 M 29 Apr.|Chiang, "ChatGPT is a Blurry JPEG of the Web" (pdf).|All
 W 1 May|Dzieza, "[AI is a Lot of Work](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)."|Group
