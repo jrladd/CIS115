@@ -3,8 +3,8 @@ title:  "Futurist Essay"
 date:   2022-10-26 10:00:00 -0400
 show_date: false
 ---
-**Complete by: Friday 10 May, before noon.**  
-*First Draft by: Friday 3 May, at class time.*
+**Complete by: Friday 14 Dec., before noon.**  
+*First Draft by: Friday 6 Dec., at class time.*
 
 ### The Prompt
 

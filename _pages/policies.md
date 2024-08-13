@@ -15,7 +15,7 @@ In between classes you should:
 - Review your notes from previous classes
 - Read the assigned readings for that day
 - Refer to this site for updates to the [schedule](/CIS100/schedule)
-- Leave yourself enough time to read and respond to discussion board posts
+- Leave yourself enough time to read and respond to annotations
 - DO NOT wait until the last minute to begin your essays
 - Revise and proofread your writing before turning it in
 - EMAIL your instructor with any questions. Ask lots of questions!
@@ -67,6 +67,10 @@ Everyone has the right to be addressed as they feel most comfortable. It’s har
 ### Class Technology
 
 Please be respectful with your use of laptops and technology in class. I request that you only use them for class related purposes, as I and others may find them distracting (For example, no email or social media should be open in your browser tabs!). Cell phones should be kept silent and put away, and you can expect the same from me.
+
+### Email Response Time
+
+I encourage you to email me anytime with questions or thoughts about the class. It can sometimes take me up to 24 hours to respond to your message, but I will do my best to get back to you within that period. This means that if you have a question about an assignment that you email to me the night before something is due, I may not be able to get back to you until after the assignment was due. In these cases, it's best to plan ahead.
 
 ## Important Resources for this Class and Your College Journey
 
