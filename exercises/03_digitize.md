@@ -12,11 +12,11 @@ As usual, follow the steps below to complete the workshop exercise, and then we'
 2) Select a topic that interests you, and search for a book that matches that topic
 
 - You can choose anything you want, but here are some good general ideas:
-        - Cooking
-        - Witchcraft
-        - Civil War (n.b. This will get you results on the *English* Civil War 1642-51)
-        - Sonnets
-        - Games
+    - Cooking
+    - Witchcraft
+    - Civil War (n.b. This will get you results on the *English* Civil War 1642-51)
+    - Sonnets
+    - Games
 
 3) Select a book and choose an interesting page (just one page, or even less!). For a fun challenge, you might choose a page that has more than just a single block of prose text. Maybe your page has a poem or a song. Maybe it has multiple columns, or even a table or diagram.
 
