@@ -28,7 +28,7 @@ In keeping with the theme of “working with AI,” use ChatGPT to create a draf
 - A minimum of 6 paragraphs, 900-1500 words
 - Include the wordcount in the header of your paper
 - Five or more sources (no more than two drawn from our course readings)
-- Several integrated and correctly cited quotes from your sources 
+- Several integrated and correctly cited quotes from your sources, at *least* one quote from every source
 - A **second document** with the ChatGPT output, and a paragraph explaining how you did and did not use it
 - Double-spaced, readable font
 - MLA Format & Citations
