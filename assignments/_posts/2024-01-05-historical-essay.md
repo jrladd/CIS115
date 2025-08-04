@@ -3,7 +3,7 @@ title:  "Historical Essay I"
 date:   2022-09-23 10:00:00 -0400
 show_date: false
 ---
-**Complete by: Friday 11 Oct., at class time.**  
+**Complete by: Friday 3 Oct., at class time.**  
 
 ## The Prompt
 

@@ -3,7 +3,7 @@ title:  "Historical Essay II"
 date:   2022-09-23 10:00:00 -0400
 show_date: false
 ---
-**Complete by: Friday 25 Oct., at class time.**  
+**Complete by: Friday 24 Oct., at class time.**  
 
 Revision is an essential part of the writing process. Now that you have read more about the history of computing and reflected on your initial [Historical Essay I](/assignments/historical essay), you will **revise** your essay into a more in-depth reflection on your chosen topic. Use the feedback you received from your peers and from me to expand your original piece of writing.
 

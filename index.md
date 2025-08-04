@@ -17,10 +17,10 @@ header:
       url: "https://sakai.washjeff.edu"
 ---
 
-CIS 115. Washington & Jefferson College. Fall 2024.  
+CIS 115. Washington & Jefferson College. Fall 2025.  
 **Meeting Time: MWF 10:20-11:30am**  
 
-Dr. Ladd's Student Drop-In Hours: M 11:30-12:30pm, Tu & Th 1:30-3:30pm in TECH 201  
+Dr. Ladd's Student Drop-In Hours: M 11:30am-1:30pm, Th 1-3pm in TECH 201  
 or email for appointment, [jladd@washjeff.edu](mailto:jladd@washjeff.edu)
 
 ## Course Description
@@ -36,5 +36,4 @@ At the end of this course, you will be able to:
 - Describe the role of computing technologies in solving problems of storing, retrieving, transmitting, and analyzing information
 - Understand today’s information technologies within the context of historical efforts to communicate knowledge and solve problems
 - Critically evaluate the claims of new technologies that seek to improve daily life
-- Describe the role of the individual technology “leader” in the process of societal change
 - Write about computing technologies and their significance in an informative manner to a non-technical audience.
