@@ -9,9 +9,9 @@ sidebar:
 
 ## Books and Materials
 
-Ceruzzi, Paul E. *Computing: A Concise History*. MIT Press, 2012. [Available for free from the W&J Library!](https://go.openathens.net/redirector/washjeff.edu?url=https%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D463391) 
-Postman, Neil. *Technopoly: The Surrender of Culture to Technology*. New York: Vintage, 1992.  
-Sloan, Robin. *Mr. Penumbra's 24-Hour Bookstore*. New York: Picador, 2013.
+- Ceruzzi, Paul E. *Computing: A Concise History*. MIT Press, 2012. [Available for free from the W&J Library!](https://go.openathens.net/redirector/washjeff.edu?url=https%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D463391) 
+- Postman, Neil. *Technopoly: The Surrender of Culture to Technology*. New York: Vintage, 1992.  
+- Sloan, Robin. *Mr. Penumbra's 24-Hour Bookstore*. New York: Picador, 2013.
 
 ## Class Schedule
 
