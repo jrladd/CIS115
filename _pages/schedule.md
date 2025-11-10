@@ -40,6 +40,6 @@ Dates|Monday|Wednesday|Friday
 1-5 Dec.|Chiang, "ChatGPT is a Blurry JPEG of the Web" (pdf).|Dzieza, "[AI is a Lot of Work](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)."|Writing with a Chatbot
 8 Dec.|Peer Review of [Futurist Essay](/CIS115/assignments/futurist-essay).
 
-14 Dec. 9am-Noon|FINAL EXAM PERIOD. Write the **[FUTURIST ESSAY](/CIS115/assignments/futurist-essay)**
+15 Dec. 9am-Noon|FINAL EXAM PERIOD. Write the **[FUTURIST ESSAY](/CIS115/assignments/futurist-essay)**
 
 ||
