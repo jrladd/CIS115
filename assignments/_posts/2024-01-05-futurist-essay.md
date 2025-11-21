@@ -16,7 +16,7 @@ You will write an essay in response to the prompt above **during the final exam 
 
 We will have a peer evaluation session for this essay on the last regular day of class. For this, you will simply describe your plans for the essay to the members of your peer group. You should bring 3 copies of a printed outline, a works cited page, and the sources you intend to use for the essay (printed out). (If your sources are very long, just print the portions you intend to use.) I will collect these at the end of the peer review and return them to you at the exam. 
 
-**Prior to midnight on the final day of class, you should submit through Sakai a single document with your outline, links to your sources, and your works cited page. Your outline can consist of 6 sentences – your thesis, four topic sentences, and the beginning of your conclusion.**
+**Prior to the start of the final day of class, you should submit through Sakai a single document with your outline, links to your sources, and your works cited page. Your outline can consist of 6 sentences – your thesis, four topic sentences, and the beginning of your conclusion.**
 
 
 **Requirements**:
