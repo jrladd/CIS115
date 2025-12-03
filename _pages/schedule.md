@@ -37,7 +37,7 @@ Dates|Monday|Wednesday|Friday
 |**Unit IV: Futurism (Past & Present)**
 17-21 Nov.|"[Virtual Chiat](https://www.wired.com/1994/07/chiat/)." "[Lost in Space](https://www.wired.com/1999/02/chiat-3/)." "[The Robots are Coming for Phil in Accounting](https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html)." Watch *Transcendent Man* in class.|"[The Future Knocks Again](http://www.nytimes.com/2008/07/10/garden/10disney.html)." Finish *Transcendent Man*.|Research/Discussion for [Futurist Essay](/CIS115/assignments/futurist-essay).
 24 Nov.|"[What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin)" sections 2.1-2.4.|NO CLASS on Wednesday|NO CLASS on Friday
-1-5 Dec.|Chiang, "ChatGPT is a Blurry JPEG of the Web" (pdf).|Dzieza, "[AI is a Lot of Work](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)."|Writing with a Chatbot
+1-5 Dec.|Chiang, "ChatGPT is a Blurry JPEG of the Web" (pdf).|Dzieza, "[AI is a Lot of Work](https://web.archive.org/web/20250523114720/https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)."|Writing with a Chatbot
 8 Dec.|Peer Review of [Futurist Essay](/CIS115/assignments/futurist-essay).
 
 15 Dec. 9am-Noon|FINAL EXAM PERIOD. Write the **[FUTURIST ESSAY](/CIS115/assignments/futurist-essay)**
