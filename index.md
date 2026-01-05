@@ -17,10 +17,10 @@ header:
       url: "https://sakai.washjeff.edu"
 ---
 
-CIS 115. Washington & Jefferson College. Fall 2025.  
+CIS 115. Washington & Jefferson College. Spring 2026.  
 **Meeting Time: MWF 10:20-11:30am**  
 
-Dr. Ladd's Student Drop-In Hours: M 11:30am-1:30pm, Th 1-3pm in TECH 201  
+Dr. Ladd's Student Drop-In Hours: M 1pm-3pm, Th 11-12pm in TECH 201  
 or email for appointment, [jladd@washjeff.edu](mailto:jladd@washjeff.edu)
 
 ## Course Description

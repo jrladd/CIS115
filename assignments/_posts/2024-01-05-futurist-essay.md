@@ -4,7 +4,7 @@ date:   2022-10-26 10:00:00 -0400
 show_date: false
 ---
 **Complete during: The final exam period for our class.**  
-*Outline and sources by: Monday 8 Dec., at class time.*
+*Outline and sources by: Monday 27 Apr., at class time.*
 
 ### The Prompt
 
