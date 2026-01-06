@@ -66,7 +66,11 @@ Everyone has the right to be addressed as they feel most comfortable. It’s har
 
 ### Class Technology
 
-Please be respectful with your use of laptops and technology in class. I request that you only use them for class related purposes, as I and others may find them distracting (For example, no email or social media should be open in your browser tabs!). Cell phones should be kept silent and put away, and you can expect the same from me.
+For the majority of our class discussion time, we will not use laptops, tablets, or other technology. While we will do some in-class activities on laptops, I will specifically mention when these will be. At all other times, laptops and tablets should be put away. This isn't intended to be punitive—as we will discuss, these technologies are *intentionally designed to be distracting* for a range of social and historical reasons. To keep our discussions lively and cover the material with the appropriate depth, the best course of action is to remove these devices to foster a more thoughtful collective environment.
+
+For the same reasons, phones should be kept silent and put away at all times, and you can expect the same from me.
+
+If you need the use of an electronic device for a specific reason of disability accommodations, just let me know so that we can work something out. 
 
 ### Email Response Time
 

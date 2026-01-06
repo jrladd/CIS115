@@ -36,7 +36,7 @@ Dates|Monday|Wednesday|Friday
 6-10 Apr.|Postman, Ch. 5 & 6.|Postman, Ch. 8 & 9.|**Exam on Units II & III**.
 |**Unit IV: Futurism (Past & Present)**
 13-17 Apr.|"[Virtual Chiat](https://www.wired.com/1994/07/chiat/)." "[Lost in Space](https://www.wired.com/1999/02/chiat-3/)." "[The Robots are Coming for Phil in Accounting](https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html)." Watch *Transcendent Man* in class.|"[The Future Knocks Again](http://www.nytimes.com/2008/07/10/garden/10disney.html)." Finish *Transcendent Man*.|Research/Discussion for [Futurist Essay](/CIS115/assignments/futurist-essay).
-20-24 Apr.|"[What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin)" sections 2.1-2.4.|Chiang, "ChatGPT is a Blurry JPEG of the Web" (pdf).|Dzieza, "[AI is a Lot of Work](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)."
+20-24 Apr.|"[What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin)" sections 2.1-2.4.|Chiang, "ChatGPT is a Blurry JPEG of the Web" (pdf).|Dzieza, "[AI is a Lot of Work](https://web.archive.org/web/20250523114720/https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)."
 27 Apr.|Peer Review of [Futurist Essay](/CIS115/assignments/futurist-essay).
 
 3 May 6:30-9:30pm|FINAL EXAM PERIOD. Write the **[FUTURIST ESSAY](/CIS115/assignments/futurist-essay)**
