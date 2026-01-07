@@ -70,7 +70,7 @@ For the majority of our class discussion time, we will not use laptops, tablets,
 
 For the same reasons, phones should be kept silent and put away at all times, and you can expect the same from me.
 
-If you need the use of an electronic device for a specific reason of disability accommodations, just let me know so that we can work something out. 
+If you need the use of an electronic device for a specific **documented** reason of disability accommodations, just let me know so that we can work something out. 
 
 ### Email Response Time
 
