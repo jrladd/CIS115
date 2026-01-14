@@ -50,9 +50,9 @@ If I have to miss class due to illness or any other reason, I will let you know 
 
 All assignments are due by the start of each class. I know that things don't always go according to plan. If you need an extension, simply ask for one (by email), and you'll almost always receive it. You don't need an excuse to receive an extension!
 
-However, you **must ask for the extension *at least* 24 hours before the assignment deadline**. To request an extension, simply [fill out this form](https://forms.office.com/r/CvgQqWDz4B), where you will propose a new deadline for the assignment (a good rule of thumb is 2 or 3 days after the original deadline). Any work received late without an agreed-upon extension will receive a point deduction.
+However, you **must ask for the extension *at least* 24 hours before the assignment deadline**. To request an extension, simply [fill out this form](https://forms.office.com/r/CvgQqWDz4B), where you will propose a new deadline for the assignment (a good rule of thumb is a day or two after the original deadline). Any work received late (less than 48 hours) without an agreed-upon extension will receive a point deduction.
 
-But keep in mind: **I cannot accept any assignment more than one week late.** Assignments more than one week late will receive a 0.
+But keep in mind: **I cannot accept any assignment more than 48 hours late.** Assignments more than 48 hours late will receive a 0.
 
 ### Academic Honesty and Integrity
 
