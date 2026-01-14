@@ -7,14 +7,14 @@ sidebar:
     text: "*Keep in mind that some of this schedule could change throughout the semester. However, if anything changes I'll update this page, and I'll be sure to give you plenty of advance notice.*"
   - title: "Books"
     text: |
-      - Ceruzzi, Paul E. *Computing: A Concise History*. MIT Press, 2012. [Available for free from the W&J Library!](https://go.openathens.net/redirector/washjeff.edu?url=https%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D463391) 
+      - Ceruzzi, Paul E. *Computing: A Concise History*. MIT Press, 2012. [Available for free from the W&J Library!](https://go.openathens.net/redirector/washjeff.edu?url=https%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D463391)
       - Postman, Neil. *Technopoly: The Surrender of Culture to Technology*. New York: Vintage, 1992.  
       - Sloan, Robin. *Mr. Penumbra's 24-Hour Bookstore*. New York: Picador, 2013.
 ---
 
 ## Class Schedule
 
-**When a text is marked *(pdf)*, a version is available in Sakai under Resources.**
+**All course texts are available as PDFs in Sakai under Resources. If any link below does not work, a corresponding PDF is available on Sakai.**
 
 Dates|Monday|Wednesday|Friday
 --|---|---|---

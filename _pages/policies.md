@@ -66,7 +66,7 @@ Everyone has the right to be addressed as they feel most comfortable. It’s har
 
 ### Class Technology
 
-For the majority of our class discussion time, we will not use laptops, tablets, or other technology. While we will do some in-class activities on laptops, I will specifically mention when these will be. At all other times, laptops and tablets should be put away. This isn't intended to be punitive—as we will discuss, these technologies are *intentionally designed to be distracting* for a range of social and historical reasons. To keep our discussions lively and cover the material with the appropriate depth, the best course of action is to remove these devices to foster a more thoughtful collective environment.
+For some of our class discussion time, we will not use laptops, tablets, or other technology. I will specifically mention in class when laptops and tablets should be put away. This isn't intended to be punitive—as we will discuss, these technologies are *intentionally designed to be distracting* for a range of social and historical reasons. To keep our discussions lively and cover the material with the appropriate depth, the best course of action is to remove these devices to foster a more thoughtful collective environment. (For this reason, you might find it easier to print out some of the readings and bring them with you to class.)
 
 For the same reasons, phones should be kept silent and put away at all times, and you can expect the same from me.
 
