@@ -13,7 +13,7 @@ Write an essay using one or more contemporary (primary) print (or video) sources
 
 The essay should have four paragraphs: an introduction, two body paragraphs, and a conclusion. In this essay, you are responsible for your own introduction strategy and thesis. Develop an interesting angle on the topic that is based in your own reflection upon the material. Focus each body paragraph on specific textual or visual features of your primary source. Spend time thinking not only about *what* your source is saying, but *how* your source is saying it.
 
-To develop a thesis, you will need to think carefully about what your *primary source* is saying and why. A good thesis makes a clear historical **argument**; is specific, focused, and precise; and answers the question "so what?". For more on coming up with a thesis, see [this guide from UCLA's history department](https://history.ucla.edu/thesis-statements/).
+To develop a thesis, you will need to think carefully about what your *primary source* is saying and why. A good thesis makes a clear historical **argument**; is specific, focused, and precise; and answers the question "so what?". A good start may be for you to figure out what argument you think the author/creator of your source is trying to make.
 
 ## The Research
 
