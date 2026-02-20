@@ -19,6 +19,7 @@ Remember that you can continue to use [the LibGuide for our class](https://libgu
 - 4-6 paragraphs, 950-1400 words (at least 500 words *longer* than your previous version)
 - Include the wordcount in the header of your paper
 - One source chosen from our readings, and one library source you found on your own
-- Several integrated and correctly cited quotes from your sources - Double-spaced, readable font
+- Several integrated and correctly cited quotes from your sources 
+- Double-spaced, readable font
 - MLA Format & Citations
 - PDF format (not a Word doc or other file type)
