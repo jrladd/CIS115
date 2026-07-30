@@ -1,27 +1,24 @@
 ---
-layout: splash
 title: "Information Technology and Society"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
-  overlay_image: /assets/images/eniac.png
-  caption: "Marlyn Meltzer and Ruth Teitelbaum reprogram ENIAC in 1946. Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Reprogramming_ENIAC.png)"
-  actions:
-    - label: "Schedule & Readings"
-      url: "/schedule/"
-    - label: "Assignments"
-      url: "/assignments/"
-    - label: "Course Policies"
-      url: "/policies/"
-    - label: "Sakai"
-      url: "https://sakai.washjeff.edu"
+subtitle: '<a class="btn btn-outline-info" style="color: white;" href="schedule.qmd">Schedule</a> <a class="btn btn-outline-info" style="color: white;" href="assignments.qmd">Assignments</a> <a class="btn btn-outline-info" style="color: white;" href="policies.qmd">Course Policies</a> <a class="btn btn-outline-info" style="color: white;" href="https://sakai.washjeff.edu">Sakai</a>'
+toc: false
+title-block-banner: assets/images/eniac-banner.png
+title-block-banner-color: white
 ---
 
+::: {.card .border-info .mb-3}
+
+:::: {.card-body}
+
 CIS 115. Washington & Jefferson College. Spring 2026.  
-**Meeting Time: MWF 10:20-11:30am**  
+**Meeting Time: MWF 10:20-11:30am**
 
 Dr. Ladd's Student Drop-In Hours: M 1pm-3pm, Th 11-12pm in TECH 201  
 or email for appointment, [jladd@washjeff.edu](mailto:jladd@washjeff.edu)
+
+::::
+
+:::
 
 ## Course Description
 
@@ -34,6 +31,8 @@ In this survey of the history of technology, we will examine information technol
 At the end of this course, you will be able to:
 
 - Describe the role of computing technologies in solving problems of storing, retrieving, transmitting, and analyzing information
-- Understand today’s information technologies within the context of historical efforts to communicate knowledge and solve problems
+- Understand today's information technologies within the context of historical efforts to communicate knowledge and solve problems
 - Critically evaluate the claims of new technologies that seek to improve daily life
 - Write about computing technologies and their significance in an informative manner to a non-technical audience.
+
+<small>Marlyn Meltzer and Ruth Teitelbaum reprogram ENIAC in 1946. Photo credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reprogramming_ENIAC.png)</small>

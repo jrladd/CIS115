@@ -1,9 +1,9 @@
 ---
-title:  "Historical Essay I"
-date:   2022-09-23 10:00:00 -0400
-show_date: false
+title: "Historical Essay I"
+date: 2022-09-23
 ---
-**Complete by: Friday 20 Feb., at class time.**  
+
+**Complete by: Friday 20 Feb., at class time.**
 
 ## The Prompt
 
@@ -29,7 +29,7 @@ Your primary source ***must*** be about one of the 20th century computing techno
 - 4 paragraphs, 450-900 words
 - Include the wordcount in the header of your paper
 - At least one *library* source you found on your own, ideally using the [LibGuide](https://libguides.washjeff.edu/CIS115)
-- Several integrated and correctly cited quotes from your source 
+- Several integrated and correctly cited quotes from your source
 - Double-spaced, readable font
 - MLA Format & Citations
 - PDF format (not a Word doc or other file type)

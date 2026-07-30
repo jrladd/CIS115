@@ -1,6 +1,5 @@
 ---
-title: Build Your Own Chatbot
-permalink: /exercises/chatbot/
+title: "Build Your Own Chatbot"
 ---
 
 Go to [this Google Colab notebook](https://colab.research.google.com/drive/1eWE9F39LiHHMuVbX7avMUfAyRtZlbDld?usp=sharing) to complete the exercise.

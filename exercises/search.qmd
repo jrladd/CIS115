@@ -1,6 +1,5 @@
 ---
-title: Explore Search Engines
-permalink: /exercises/search/
+title: "Explore Search Engines"
 ---
 
 Go to [this Google Colab notebook](https://colab.research.google.com/drive/1_nfxNJDlRdN2_yKpwHOndeHU9lcsLt_9?usp=sharing) to complete the exercise.

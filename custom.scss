@@ -1,0 +1,10 @@
+/*-- scss:rules --*/
+.quarto-title-banner {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.quarto-title-block .quarto-title-banner {
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: darken;
+}

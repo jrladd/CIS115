@@ -1,6 +1,5 @@
 ---
-title: Digitize a Text
-permalink: /exercises/digitize/
+title: "Digitize a Text"
 ---
 
 Hafner and Cerf ask us to think about the processes of digital preservation. Now that you've investigated how books are made physically, we can begin to think about how books are represented digitally. First, you'll examine a representation of a book as a series of **digital images**, and then you'll remediate those images into **XML**, a markup language that gives structure to machine-readable text.
