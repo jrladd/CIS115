@@ -14,7 +14,6 @@ In between classes you should:
 - Review your notes from previous classes
 - Read the assigned readings for that day
 - Refer to this site for updates to the [schedule](/CIS115/schedule)
-- Leave yourself enough time to read and respond to annotations
 - DO NOT wait until the last minute to begin your essays
 - Revise and proofread your writing before turning it in
 - EMAIL your instructor with any questions. Ask lots of questions!
@@ -23,13 +22,13 @@ Each class must create its own learning community as the result of shared effort
 
 ### Attendance & Participation
 
-Good participation should be understood as consistent and thoughtful contribution to the classroom community, an engagement with course materials and conversations, and a general responsiveness to (and respect for) one’s fellow students and instructor. This isn’t an accounting of how often you speak in class. Instead, it’s about what you offer to the intellectual life of the class, and everyone contributes to this on-going work in different ways.
-
-You'll get participation credit simply for attending class and doing the work with care. Some days the full class will meet for the entire time, and other days we will meet in groups for only part of the class. You are responsible to attend all of your group times as well as all of the full-class sessions.
+Good participation should be understood as consistent and thoughtful contribution to the classroom community, an engagement with course materials and conversations, and a general responsiveness to (and respect for) one’s fellow students and instructor. This isn’t an accounting of how often you speak in class. Instead, it’s about what you offer to the intellectual life of the class, and everyone contributes to this on-going work in different ways. You'll get participation credit simply for attending class and doing the work with care.
 
 **You can miss 5 class sessions without penalty, and you don't need to contact me if you have missed or will miss a class**. This is a generous policy that should cover absences due to illness, sports, academic trips, interviews, etc. If you have a special case, such as having to isolate due to COVID, contact me as soon as possible.
 
 However, if you miss more than 5 classes, you will be marked down one grade "step" for each additional class missed. (For example, if you miss six classes and your final grade is 90% (A-), your sixth absence will cause you to have a B+ instead.) There are no “excused” absences, so you do not need to contact me if you have missed or will miss a class. You will be marked absent regardless of your reason for missing class.
+
+**If you miss class, you may also miss in-class quizzes, exercises, and peer reviews.** These cannot be made up since they can only be completed during class time, and missing several of these will also affect your grade.
 
 Though you're not required to, you can always reach out to me or a classmate to find out what you missed. We're all in this together, and I'll do my best to make sure no one falls behind.
 
@@ -57,7 +56,7 @@ But keep in mind: **I cannot accept any assignment more than 48 hours late.** As
 
 In this course, as in all courses, you are expected to adhere to W&J's standards of academic honesty and integrity. You should refer to the College Catalog on MyW&J for the details of this policy and how cases of academic misconduct are handled.
 
-In general, when completing writing assignments, ensure all work is your own, and give credit where it is due in your citations. Likewise do not collaborate on quizzes, tests, or homework assignments unless explicitly granted permission. This includes generative AI tools (like ChatGPT) or other technologies that write for you---do not use these unless explicitly granted permission to do so. If you have any concerns about whether you might have plagiarized (e.g., if you’re not sure about some particular rule), please get in touch with me immediately---I will gladly discuss the matter with you.
+In general, when completing writing assignments, **ensure all work is your own, and give credit where it is due in your citations**. Likewise do not collaborate on quizzes, tests, or homework assignments unless explicitly granted permission. **This includes generative AI tools (like ChatGPT) or other technologies that write for you---do not use these unless explicitly granted permission to do so.** If you have any concerns about whether you might have plagiarized (e.g., if you’re not sure about some particular rule), please get in touch with me immediately---I will gladly discuss the matter with you.
 
 ### Names and Pronouns
 
@@ -65,7 +64,7 @@ Everyone has the right to be addressed as they feel most comfortable. It’s har
 
 ### Class Technology
 
-For some of our class discussion time, we will not use laptops, tablets, or other technology. I will specifically mention in class when laptops and tablets should be put away. This isn't intended to be punitive—as we will discuss, these technologies are *intentionally designed to be distracting* for a range of social and historical reasons. To keep our discussions lively and cover the material with the appropriate depth, the best course of action is to remove these devices to foster a more thoughtful collective environment. (For this reason, you might find it easier to print out some of the readings and bring them with you to class.)
+For some of our class discussion time, we will not use laptops, tablets, or other technology. I will specifically mention in class when laptops and tablets should be put away. This isn't intended to be punitive---as we will discuss, these technologies are *intentionally designed to be distracting* for a range of social and historical reasons. To keep our discussions lively and cover the material with the appropriate depth, the best course of action is to remove these devices to foster a more thoughtful collective environment. (For this reason, you might find it easier to print out some of the readings and bring them with you to class.)
 
 For the same reasons, phones should be kept silent and put away at all times, and you can expect the same from me.
 

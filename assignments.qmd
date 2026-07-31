@@ -18,8 +18,7 @@ Historical Essay I|15%
 Historical Essay II|20%
 Test on Units II & III|10%
 Futurist Essay|20%
-Weekly Annotations|10%
+In-class Writing & Peer Reviews|15%
 Reading Quizzes|10%
-In-class Exercises & Peer Reviews|5%
 
 : {.striped .hover}
